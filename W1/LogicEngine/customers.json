@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "name": "Anna Kowalska",
+      "subscription_status": true,
+      "days_since_last_order": 65,
+      "amount_spent": 450
+    },
+    {
+      "name": "John Smith",
+      "subscription_status": false,
+      "days_since_last_order": 15,
+      "amount_spent": 120
+    },
+    {
+      "name": "Maria Nowak",
+      "subscription_status": true,
+      "days_since_last_order": 91,
+      "amount_spent": 900
+    },
+    {
+      "name": "Tom Lee",
+      "subscription_status": true,
+      "days_since_last_order": 24,
+      "amount_spent": 60
+    },
+    {
+      "name": "Kate Brown",
+      "subscription_status": false,
+      "days_since_last_order": 106,
+      "amount_spent": 700
+    }
+  ]
+}
