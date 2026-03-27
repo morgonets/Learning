@@ -13,4 +13,9 @@ for client in filtered_clients:
 filtered_clients1 = Filters.filtering_by_date(clients, start_date="2024-02-01")
 for client in filtered_clients1:
     message1 = Templates.reminder_message(client["name"])
-    print(message1)
+    print(message1)# This code defines a list of clients with their names, amounts, and dates.
+# Bim 
+# ? Bam
+# * Bom
+# ! Bym
+# TODO Homework
